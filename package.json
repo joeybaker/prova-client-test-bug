@@ -1,0 +1,14 @@
+{
+  "name": "prova-client-test-bug",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/prova -bel chrome test/**"
+  },
+  "author": "Joey Baker",
+  "license": "ISC",
+  "devDependencies": {
+    "prova": "^1.13.0"
+  }
+}
